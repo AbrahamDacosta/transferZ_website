@@ -1,0 +1,106 @@
+{
+  "hero_title": {
+    "fr": "Repenser l'accès à l'argent. Pour tous. Partout.",
+    "en": "Rethink access to money. For everyone. Everywhere."
+  },
+  "hero_subtitle": {
+    "fr": "Transfer Z permet aux jeunes d’envoyer et de recevoir de l’argent localement et à l’international — sans carte SIM, sans compte bancaire, simplement via une identité numérique (DID) et un téléphone.",
+    "en": "Transfer Z allows young people to send and receive money locally and internationally — without a SIM card or bank account, just with a digital identity (DID) and a phone."
+  },
+  "cta": {
+    "fr": "Rejoignez le mouvement",
+    "en": "Join the movement"
+  },
+
+  "problem_title": {
+    "fr": "Le Problème",
+    "en": "The Problem"
+  },
+  "problem_desc": {
+    "fr": "Malgré la prolifération des solutions financières numériques, une majorité de jeunes et de travailleurs informels en Afrique de l’Ouest restent exclus :",
+    "en": "Despite the growth of digital financial solutions, most youth and informal workers in West Africa remain excluded:"
+  },
+  "problem_1": {
+    "fr": "Les transferts d'argent sont limités à un même numéro et nom à cause des régulations CEDEAO.",
+    "en": "Money transfers are restricted to the same number and name due to ECOWAS regulations."
+  },
+  "problem_2": {
+    "fr": "Pas de solution pour recevoir de l’argent sans carte SIM ou pièce d'identité nationale.",
+    "en": "No solution to receive money without a SIM card or national ID."
+  },
+  "problem_3": {
+    "fr": "Séparation et incompatibilité entre les opérateurs Mobile Money.",
+    "en": "Separation and incompatibility between Mobile Money operators."
+  },
+  "problem_4": {
+    "fr": "Forte dépendance aux agences physiques ou à un tiers de confiance.",
+    "en": "Heavy reliance on physical agencies or third-party intermediaries."
+  },
+
+  "solution_title": {
+    "fr": "Notre Solution",
+    "en": "Our Solution"
+  },
+  "solution_point_1": {
+    "fr": "Création d’une identité numérique (DID) indépendante du numéro de téléphone.",
+    "en": "Creation of a digital identity (DID) independent of phone number."
+  },
+  "solution_point_2": {
+    "fr": "Envoi et réception d’argent localement ou à l’international sans carte SIM.",
+    "en": "Send and receive money locally or internationally without a SIM card."
+  },
+  "solution_point_3": {
+    "fr": "Utilisation de stablecoins pour garantir la valeur et faciliter les conversions de devises.",
+    "en": "Use of stablecoins to ensure value and ease currency conversion."
+  },
+  "solution_point_4": {
+    "fr": "Interconnexion entre opérateurs Mobile Money via la blockchain.",
+    "en": "Interconnection between Mobile Money operators via blockchain."
+  },
+  "solution_point_5": {
+    "fr": "Accès facilité via une interface mobile légère ou par agents équipés.",
+    "en": "Easy access through a lightweight mobile interface or equipped agents."
+  },
+
+  "impact_title": {
+    "fr": "Notre Impact",
+    "en": "Our Impact"
+  },
+  "impact_1": {
+    "fr": "1500+ jeunes onboardés d'ici fin 2025",
+    "en": "1500+ young people onboarded by the end of 2025"
+  },
+  "impact_2": {
+    "fr": "3 pays pilotes : Côte d’Ivoire, Bénin, Sénégal",
+    "en": "3 pilot countries: Côte d'Ivoire, Benin, Senegal"
+  },
+  "impact_3": {
+    "fr": "500+ transactions pilotes réussies",
+    "en": "500+ successful pilot transactions"
+  },
+
+  "team_title": {
+    "fr": "Notre Équipe",
+    "en": "Our Team"
+  },
+  "contact_title": {
+    "fr": "Contactez-nous",
+    "en": "Contact Us"
+  },
+  "contact_desc": {
+    "fr": "Vous souhaitez soutenir Transfer Z, participer à la phase pilote ou en savoir plus ?",
+    "en": "Would you like to support Transfer Z, join the pilot phase or learn more?"
+  },
+  "contact_email": {
+    "fr": "📧 contact@transferz.org",
+    "en": "📧 contact@transferz.org"
+  },
+  "contact_phone": {
+    "fr": "📱 +225 07 87 78 51 70",
+    "en": "📱 +225 07 87 78 51 70"
+  },
+  "contact_whatsapp": {
+    "fr": "Écrivez-nous sur WhatsApp",
+    "en": "Message us on WhatsApp"
+  }
+}

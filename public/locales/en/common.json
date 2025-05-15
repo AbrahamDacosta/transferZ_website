@@ -1,0 +1,31 @@
+{
+  "hero_title": "Rethinking access to money. For everyone. Everywhere.",
+  "hero_subtitle": "Transfer Z enables young people to send and receive money locally and internationally — without a SIM card, without a bank account, using only a digital identity (DID) and a mobile phone.",
+  "cta": "Join the Movement",
+
+  "problem_title": "The Problem",
+  "problem_desc": "Despite the growth of digital financial services, many young people and informal workers in West Africa remain excluded:",
+  "problem_1": "Money transfers are restricted to the same phone number and name due to ECOWAS regulations.",
+  "problem_2": "No way to receive money without a SIM card or national ID.",
+  "problem_3": "Lack of interoperability between Mobile Money operators.",
+  "problem_4": "Strong reliance on physical agents or trusted third parties.",
+
+  "solution_title": "Our Solution",
+  "solution_point_1": "Create a digital identity (DID) that is independent of phone numbers.",
+  "solution_point_2": "Enable money transfers locally and internationally without a SIM card.",
+  "solution_point_3": "Use stablecoins to ensure value and support multi-currency conversion.",
+  "solution_point_4": "Connect Mobile Money operators via blockchain.",
+  "solution_point_5": "Provide access through a light mobile interface or certified agents.",
+
+  "impact_title": "Our Impact",
+  "impact_1": "1500+ onboarded youth by the end of 2025",
+  "impact_2": "3 pilot countries: Côte d’Ivoire, Benin, Senegal",
+  "impact_3": "500+ successful pilot transactions",
+
+  "team_title": "Our Team",
+  "contact_title": "Contact Us",
+  "contact_desc": "Want to support Transfer Z, join the pilot, or learn more?",
+  "contact_email": "📧 contact@transferz.org",
+  "contact_phone": "📱 +225 07 87 78 51 70",
+  "contact_whatsapp": "Message us on WhatsApp"
+}
