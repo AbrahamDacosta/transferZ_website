@@ -1,0 +1,22 @@
+# ✅ .gitignore pour Next.js + Node + Sanity
+node_modules
+.next
+out
+.env.local
+.env.*.local
+
+# MacOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sanity
+sanity.graphql
+sanity.json
+studio/dist
+
+# VSCode settings
+.vscode/
